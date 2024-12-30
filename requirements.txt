@@ -1,0 +1,6 @@
+requests
+trafilatura
+bs4
+peewee
+lxml_html_clean
+playwright

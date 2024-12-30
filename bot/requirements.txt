@@ -1,0 +1,5 @@
+slack_bolt
+boto3==1.35.85
+aws-lambda-powertools
+pynamodb
+discord.py
